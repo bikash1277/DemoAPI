@@ -1,0 +1,11 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+AnalyticsCheck,,,2019-04-05 23:08:51,2019-04-05 23:09:13,21.669s,PASSED
+,,,,,,
+Test Cases/TestHTTPMethods,,,2019-04-05 23:08:52,2019-04-05 23:09:12,20.825s,PASSED
+"sendRequest(findTestObject(""UserService/Listusers""))",,,2019-04-05 23:08:52,2019-04-05 23:09:01,8.720s,PASSED
+"sendRequestAndVerify(findTestObject(""UserService/Createuser""))",,,2019-04-05 23:09:01,2019-04-05 23:09:03,2.097s,PASSED
+"sendRequestAndVerify(findTestObject(""UserService/Listusers""))",,,2019-04-05 23:09:03,2019-04-05 23:09:05,2.055s,PASSED
+"sendRequestAndVerify(findTestObject(""UserService/Updateuser""))",,,2019-04-05 23:09:05,2019-04-05 23:09:08,2.523s,PASSED
+"sendRequestAndVerify(findTestObject(""UserService/Listusers""))",,,2019-04-05 23:09:08,2019-04-05 23:09:09,1.584s,PASSED
+"sendRequestAndVerify(findTestObject(""UserService/Deleteuser""))",,,2019-04-05 23:09:09,2019-04-05 23:09:11,1.493s,PASSED
+"sendRequestAndVerify(findTestObject(""UserService/Listusers""))",,,2019-04-05 23:09:11,2019-04-05 23:09:12,1.500s,PASSED
